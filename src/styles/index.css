@@ -1,0 +1,21 @@
+/* 
+    General Styles
+*/
+.contactPic {
+    width: 150px;
+    height: 150px;
+}
+
+.lapiz{
+    cursor: pointer;
+    font-size: 1.2rem;
+
+}
+.papelera{
+    cursor: pointer;
+    font-size: 1.2rem;
+    
+}
+.btnEliminar {
+    background-color: white;
+}
